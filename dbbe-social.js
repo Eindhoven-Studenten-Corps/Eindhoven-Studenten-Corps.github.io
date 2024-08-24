@@ -19,7 +19,7 @@
     varAToken = "EAANWvKagZBAMBO2ZCILZAxsiZBWAZCo1ltc3ptmHw2cJYfyVwbyOAoWzbbCV4XGodqr2TrJbiash3ZBEo5rdceG9AcUzaBZCZAGhEIrvewaOPCNvYPZB7wgZCL0a8gkXlqQmAFQTz3sgck6c7ip61nrhK6z7fv3NZB8OXo3ybTRZAIdXKHqnanUviz8icnBPKuZAyyisoShZBDniiB";
     varPageid = "345469512265820";
     varFields = "full_picture,message";
-    varAToken2 = "IGQWRNSmppSkhuN0k1YkdpTy1Ma1VONXI4TE51YmdoR0xPZA3hmTllHY195LWJjc0EzX0JwNkZAhM0V6VWRnVVZAvS0dEalk2TS1fZA3MtVTIwaGcyM0RkQmcwV010RXIwTnNFVmVMOVU5M0VnYVhmeGRLTDhzWG12ZAVkZD";
+    varAToken2 = "IGQWRNMlRwalhyclY1aG1WcmRRcFRWY3dBVnU3TnkyWHA1akpuM2w2b2szUnhOWHhZASnRRWU9kbWZAKa2JNY2I0X3RxWUNtVlV2WXFoRWNhc0E0X2M3US1SWWpFT2NzTkFHU0FSSEN4WTdsNEFfdG5ZAQTZAkVWlhR3MZD";
     varFields2 = "id,media_type,media_url,thumbnail_url,caption,timestamp";
     Albums = Backbone.Collection.extend({
         initialize: function(models, options) {
